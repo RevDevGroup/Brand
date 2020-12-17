@@ -14,25 +14,13 @@
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="revdev.svg"
-   inkscape:export-filename="/home/james/revdev.png"
+   inkscape:export-filename="/datos/Develop/Projects/Brand/revdev.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <title
      id="title1003">RevDev Branding Card</title>
   <defs
-     id="defs1">
-    <linearGradient
-       id="Degradado">
-      <stop
-         id="stop3131"
-         offset="0"
-         style="stop-color:#b12e57;stop-opacity:1" />
-      <stop
-         id="stop3133"
-         offset="1"
-         style="stop-color:#de756a;stop-opacity:1" />
-    </linearGradient>
-  </defs>
+     id="defs1" />
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
@@ -40,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="791.53835"
-     inkscape:cy="425.27045"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="175.03175"
+     inkscape:cy="274.66046"
      inkscape:document-units="mm"
-     inkscape:current-layer="revdevlogo"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="true"
@@ -154,12 +142,12 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <ellipse
-         ry="16.783035"
-         rx="16.783012"
-         cy="10.786256"
-         cx="168.22383"
+         ry="12.693002"
+         rx="12.692985"
+         cy="10.903734"
+         cx="168.5401"
          id="Circle-alternate"
-         style="fill:#de756a;fill-opacity:1;fill-rule:nonzero;stroke-width:0.237869" />
+         style="fill:#dc3545;fill-opacity:1;fill-rule:nonzero;stroke-width:0.1799" />
       <g
          id="revdev-alternate">
         <path
@@ -194,12 +182,12 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <ellipse
-         style="fill:#de756a;fill-opacity:1;fill-rule:nonzero;stroke-width:0.237869;image-rendering:optimizeQuality"
+         style="fill:#dc3545;fill-opacity:1;fill-rule:nonzero;stroke-width:0.179397;image-rendering:optimizeQuality"
          id="CIrcle"
-         cx="-20.484222"
-         cy="10.786256"
-         rx="16.783012"
-         ry="16.783035" />
+         cx="-20.179806"
+         cy="10.832836"
+         rx="12.693"
+         ry="12.622104" />
       <g
          id="revdev">
         <path
@@ -275,7 +263,7 @@
        id="rect52"
        style="fill:#ebf0f0;fill-opacity:1;stroke:#171717;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:#b12e57;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#dc3545;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect54"
        width="18.548851"
        height="18.831772"
@@ -289,9 +277,9 @@
        height="18.831772"
        width="18.548851"
        id="rect56"
-       style="fill:#de756a;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#ffd556;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
-       style="fill:#0f33ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect867"
        width="18.548851"
        height="18.831772"
